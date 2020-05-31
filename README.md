@@ -2,5 +2,14 @@
 This program performs a combination of contouring, color segmentation and labeling to allow the user to recognize a pre-defined set of colours from within a simple image.
 
 
+<p align = "center">
+<img src = "Images/gorilla_threshold_20.png">
+</p>
 
-<img src = "Images/steve2.png">
+1. Test
+2. Test#2
+
+1. Download the python file: 'ColourRangeIdentification.py' from the 'Part1' folder and open this into your preferred IDE. 
+2. You can use the 'red3.jpg' file as an example or replace this file with an image of the ball you are hoping to use this program on. 
+3. Once this code is opened in your IDE and your image is inserted, run the program. 
+4. You will find that three different windows will open, including:
