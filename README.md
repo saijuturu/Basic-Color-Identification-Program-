@@ -26,7 +26,7 @@ This program performs a combination of contouring, color segmentation and labeli
 </p>
 
 <p align = "center">
-  <img src = "Images/segmented_yellow#1.png">
+  <img src = "Images/segmented_blue.png">
 </p>
 
 6. Upon completing this production of a slideshow of images, mathematical variables pertaining to the calculations implemented within the code were conducted and printed via the jupyter lab interface. The three variables are shown below, and are individually printed as the user cycles through the program (the program can be cycled through any user key input).
