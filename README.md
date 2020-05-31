@@ -3,9 +3,9 @@ This program performs a combination of contouring, color segmentation and labeli
 
 1. Download the provided python file: 'Assignment2Final.png' from the folder: 'ENGR7761 - Assignment 2' and open it via jupyter lab.
 2. For the scope of the project, use the 'steve2.png' as the file to be experiment upon. 
-<center>
+<p align = "center">
 <img src = "ENGR7761%20-%20Assignment%202/steve2.png>
-</centre>
+</p>
 
 1. Download the python file: 'ColourRangeIdentification.py' from the 'Part1' folder and open this into your preferred IDE. 
 2. You can use the 'red3.jpg' file as an example or replace this file with an image of the ball you are hoping to use this program on. 
